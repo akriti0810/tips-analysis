@@ -16,3 +16,6 @@ An exploratory analysis of a restaurant tipping dataset, investigating what fact
 - Open tips_analysis.ipynb in this repo (or click it directly on GitHub — it renders in-browser).
 - Open in Google Colab, or download and upload to Colab.
 - Run each cell in order to reproduce the analysis.
+
+## tips_analysis_sql.ipynb
+- Repeated key parts of the analysis using SQL (via sqlite3) — filtering, grouping, aggregation, and HAVING clauses — to demonstrate the same reasoning in a second tool
